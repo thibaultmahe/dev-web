@@ -17,4 +17,4 @@ Images optimisées en WebP, polices système, aucun framework, traceur ou ressou
 
 Vérification Chromium : sept pages à 1440 et 390 pixels, sans débordement horizontal, images décodées et absence d’erreur JavaScript. Validation des dates, du choix d’agence et de la préparation du lien e-mail. Captures de l’accueil dans docs/.
 
-Prototype local uniquement : aucun déploiement, publication ni envoi sur GitHub effectué.
+Prototype statique : aucun déploiement du site ni publication de l’environnement effectué. Les fichiers sont versionnés sur la branche main du dépôt GitHub thibaultmahe/dev-web.
