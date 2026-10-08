@@ -1,0 +1,44 @@
+[
+  {
+    "file": "assets/hero.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/Bandeau-nouveau-site-1.jpg",
+    "width": 1600,
+    "height": 900
+  },
+  {
+    "file": "assets/california.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/20250325_095023-1536x1152.jpg",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "file": "assets/fourgon.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/20250307_150655-1536x1152.jpg",
+    "width": 800,
+    "height": 600
+  },
+  {
+    "file": "assets/verdon.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/64.jpg",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "assets/basque.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/63.jpg",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "assets/bretagne.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/69.jpg",
+    "width": 600,
+    "height": 600
+  },
+  {
+    "file": "assets/logo.webp",
+    "source": "https://sea-van.com/wp-content/uploads/2025/03/LOGO-BLEU-TRANSPARENT-edited-300x300.png",
+    "width": 300,
+    "height": 300
+  }
+]
